@@ -1,4 +1,4 @@
-# Akshat-Javiya-my-projects
+# Akshat Javiya projects
 
 # CardGen (Private) 	                      Dec 2023 - Present
 Collaborated with a partner for implementation in a project aimed at developing and sharing digital cards. Operated databases to facilitate document storage and retrieve data in an optimized way. We have built own OCR model, and a modified location sharing script in python. 
