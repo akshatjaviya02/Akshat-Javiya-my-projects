@@ -3,10 +3,14 @@
 # CardGen (Private) 	                      Dec 2023 - Present
 Collaborated with a partner for implementation in a project aimed at developing and sharing digital cards. Operated databases to facilitate document storage and retrieve data in an optimized way. We have built our own OCR model and a modified location-sharing script in Python. 
 Built backend was developed with Flask, AWS, and Firebase, a mobile framework for React Native, and features user registration, the ability to design cards on mobile as well as sending out dynamic
-# PetStore API	                            Mar 2024 - Present
-Accomplished an API that uses two scalable strategies, which are load balancing, cache, and secure user login with JWT manager. Constructed API which Flask, MongoDB, redis for caching, and nginx for load balancing. https://github.com/erwinmedina/PetStoreBackendProject
+# PetStore API	                            Mar 2024 - May 2024
+Accomplished an API that uses two scalable strategies: load balancing, cache, and secure user login with JWT manager. Constructed API which Flask, MongoDB, redis for caching, and nginx for load balancing. https://github.com/erwinmedina/PetStoreBackendProject
 # Sound Surfer 	                            Nov 202 - Dec 2023
 An AI sound suggestion project that would suggest songs. The AI uses KNN to suggest the songs, and it is compared to Random Forest Classification, which was obtained from Kaggle. 
+
+# COVID-19 Prediction - Data Analyst        
+Demonstrated complex understanding of data and evaluating data to model. Our model was viable for 134 countries with an 86-89 percent accuracy. We used linear regression to predict new deaths 2 weeks ahead of the current day.
+Tech stack used: R and R studio
 
 # Yummy	                                    Feb 2023 - May 2023
 Accomplished: a website retrieves recipes from an API, directing users to an article. 
