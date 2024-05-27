@@ -1,6 +1,6 @@
 # CardGen - Full Stack Developer                                                                 Dec 2023 - Present
-Collaborated with a partner for implementation in a project aimed at developing and sharing digital cards. Operated databases to facilitate document storage and retrieve data in an optimized way. We have built our own OCR model and a modified location-sharing script in Python. 
-Built backend was developed with Flask, AWS, and Firebase, a mobile framework for React Native, and features user registration, the ability to design cards on mobile as well as sending out dynamic.
+Collaborated with a partner to implement a project to develop and share digital cards. We built our own OCR model and modified a location-sharing script in Python. The backend was developed using Flask, AWS, and Firebase, a mobile framework for React Native. The application includes user registration, the ability to design cards on mobile, and the ability to send dynamic content. 
+The application is designed to be easy to use and includes various features that make it a valuable tool for users.
 https://github.com/Capstone-Project-CardGen
 
 # PetStore API - Backend Developer	                                                              Mar 2024 - May 2024
