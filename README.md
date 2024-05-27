@@ -9,10 +9,11 @@ Accomplished an API that uses two scalable strategies: load balancing, cache, an
 # Sound Surfer 	                            Nov 202 - Dec 2023
 An AI sound suggestion project that would suggest songs. The AI uses KNN to suggest the songs, and it is compared to Random Forest Classification, which was obtained from Kaggle. 
 
-# COVID-19 Prediction - Data Analyst        
+# COVID-19 Prediction - Data Analyst        Apr 2024 - May 2024  
 Demonstrated complex understanding of data and evaluating data to model. Our model was viable for 134 countries with an 86-89 percent accuracy. We used linear regression to predict new deaths 2 weeks ahead of the current day.
 Tech stack used: R and R studio
-
+# Chat bot - Network Programming            Sep 2023 - Nov 2023
+Developed an application allowing multiple users to connect and disconnect their connection with the server over a TCP connection, which uses threads. Advancing the understanding of TCP connections and having users' IP addresses private, I implemented a naming convention allowing users to set their nickname and allow the server to address with that nickname. 
 # Yummy	                                    Feb 2023 - May 2023
 Accomplished: a website retrieves recipes from an API, directing users to an article. 
 Analyzed and constructed web applications using HTML, JavaScript, and AngularJS with a team of 5 developers
