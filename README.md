@@ -1,4 +1,4 @@
-# CardGen - Full Stack Developer \t  Dec 2023 - Present
+# CardGen - Full Stack Developer &emsp Dec 2023 - Present
 Collaborated with a partner for implementation in a project aimed at developing and sharing digital cards. Operated databases to facilitate document storage and retrieve data in an optimized way. We have built our own OCR model and a modified location-sharing script in Python. 
 Built backend was developed with Flask, AWS, and Firebase, a mobile framework for React Native, and features user registration, the ability to design cards on mobile as well as sending out dynamic.
 https://github.com/Capstone-Project-CardGen
