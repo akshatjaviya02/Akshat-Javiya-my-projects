@@ -31,5 +31,5 @@ Built application uses Discord API and Python as an assistant in solving problem
 Built a compiler that takes a file input, parses the file, and goes through logic
 If the logic fails, it will indicate the line number where an error occurred in the file. The compiler declares variables, prints the output, and calculates mathematical problems. The Tech Stack used was C++.
 
-# SpaceWar - Game Developer	                                                                      Jan 2021 - May 2021
+# SpaceWar - Game Developer	                                                                      January 2021 - May 2021
 I accomplished a mini space war game, demonstrating my object-oriented programming skills and complex understanding of pointers. It was accomplished in C++
