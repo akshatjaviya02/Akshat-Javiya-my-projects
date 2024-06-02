@@ -1,33 +1,33 @@
-# CardGen - Full Stack Developer                                                                 Dec 2023 - Present
-Collaborated with a partner to implement a project to develop and share digital cards. We built our own OCR model and modified a location-sharing script in Python. The backend was developed using Flask, AWS, and Firebase, a mobile framework for React Native. The application includes user registration, the ability to design cards on mobile, and the ability to send dynamic content. 
-The application is designed to be easy to use and includes various features that make it a valuable tool for users.
+# CardGen - Full Stack Developer                                                                 December 2023 - Present
+Developed an app for iOS and Android devices where users to easily create, share, and update digital cards. CardGen runs on technologies such as React Native Expo, Firebase, Python, Flask, and AWS
+Integrated all technology to an app with seamless communication and executed all backend integration on top of adding frontend components function
 https://github.com/Capstone-Project-CardGen
 
-# PetStore API - Backend Developer	                                                              Mar 2024 - May 2024
-Accomplished an API that uses two scalable strategies: load balancing, cache, and secure user login with JWT manager. Constructed API which Flask, MongoDB, redis for caching, and nginx for load balancing. https://github.com/erwinmedina/PetStoreBackendProject
+# PetStore API - Backend Developer	                                                              March 2024 - May 2024
+Implemented and designed secure authentication encrypted password storage and applied advanced and scalable strategies, and request time was reduced from 725 ms to 82 ms https://github.com/erwinmedina/PetStoreBackendProject
 
-# Sound Surfer - Artificial Intelligence/Machine Learning Developer 	                            Nov 202 - Dec 2023
-An AI sound suggestion project that would suggest songs. The AI uses KNN to suggest the songs, and it is compared to Random Forest Classification, which was obtained from Kaggle. 
+# COVID-19 Prediction - Data Analyst	                                                            April 2024 - May 2024  
+Developed a high-accuracy (86-89%) COVID-19 death prediction model for 134 countries leveraging linear regression in R/Studio. The model empowers proactive public health measures two weeks in advance
 
-# COVID-19 Prediction - Data Analyst	                                                            Apr 2024 - May 2024  
-Demonstrated complex understanding of data and evaluating data to model. Our model was viable for 134 countries with an 86-89 percent accuracy. We used linear regression to predict new deaths 2 weeks ahead of the current day.
-Tech stack used: R and R studio
+# Sound Surfer - Machine Learning Developer/Frontend Developer 	                                  November 202 - December 2023
+Built a music recommender system utilizing K-Nearest Neighbors (KNN) for song suggestions. Implemented in Python and compared favorably to a Random Forest classifier sourced from Kaggle. 
+Utilized the ML model and created a frontend for user interactions, achieved by swift programming.  
 
-# Chat bot - Network Programming	                                                                Sep 2023 - Nov 2023
-Developed an application allowing multiple users to connect and disconnect their connection with the server over a TCP connection, which uses threads. Advancing the understanding of TCP connections and having users' IP addresses private, I implemented a naming convention allowing users to set their nickname and allow the server to address with that nickname. 
+# Chat bot - Network Programming	                                                                September 2023 - November 2023
+Developed an application that enables multiple users to connect and disconnect with the server using a TCP protocol. Utilized threads to accomplish multiple connections, allowing users to use nicknames over IP addresses 
 
-# Medical Scheduling - Full Stack Developer	                                                      Mar 2023 - May 2023
+# Medical Scheduling - Full Stack Developer	                                                      March 2023 - May 2023
 Accomplished a website allows doctors to contact medical service providers for a request for services. The website would allow two parties to create a meeting location
 Architected and implemented a website utilizing PHP, HTML, CSS, and JS
 
-# Yummy	- Lead and Full Stack Developer	                                                          Feb 2023 - May 2023
+# Yummy	- Lead and Full Stack Developer	                                                          February 2023 - May 2023
 Accomplished: a website retrieves recipes from an API, directing users to an article. 
 Analyzed and constructed web applications using HTML, JavaScript, and AngularJS with a team of 5 developers
 
-# Helping Bot - Python Developer	                                                                Jun 2022 - Jan 2023
+# Helping Bot - Python Developer	                                                                June 2022 - January 2023
 Built application uses Discord API and Python as an assistant in solving problems math problems for statistical problems. The bot was faster than the college-provided program in solving calculations.
 
-# Simple Compiler - C++ Developer	                                                                Nov 2022 - Dec 2022
+# Simple Compiler - C++ Developer	                                                                November 2022 - December 2022
 Built a compiler that takes a file input, parses the file, and goes through logic
 If the logic fails, it will indicate the line number where an error occurred in the file. The compiler declares variables, prints the output, and calculates mathematical problems. The Tech Stack used was C++.
 
