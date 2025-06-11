@@ -9,7 +9,7 @@ Implemented and designed secure authentication, encrypted password storage, and 
 # COVID-19 Prediction - Data Analyst	                                                            April 2024 - May 2024  
 Developed a high-accuracy (86-89%) COVID-19 death prediction model for 134 countries leveraging linear regression in R/Studio. The model empowers proactive public health measures two weeks in advance
 
-# Sound Surfer - Machine Learning Developer/Frontend Developer 	                                  November 202 - December 2023
+# Sound Surfer - Machine Learning Developer/Frontend Developer 	                                  November 2022 - December 2023
 Built a music recommender system utilizing K-Nearest Neighbors (KNN) for song suggestions. Implemented in Python and compared favorably to a Random Forest classifier sourced from Kaggle. 
 Utilized the ML model and created a frontend for user interactions, achieved by Swift programming.  
 
